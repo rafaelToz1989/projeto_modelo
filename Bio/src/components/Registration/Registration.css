@@ -1,0 +1,63 @@
+.input-field{
+    height:60px;
+}
+.cupom-promocional{
+  line-height: 2.5 !important;
+}
+
+.field-container{
+    display: none;
+  }
+  
+  .field-container.error{
+      content: 'x';
+      display: inline-block;
+      margin-top: 10px;
+      font-weight: 600;
+      color: #ca3938;
+    }
+  
+    .span-message{
+      display: inline-block;
+      font-size: 12px;
+      text-align: left;
+      width: 100%;
+      font-style: italic;
+      color: #ca3938;
+    }
+
+    #placeholder{
+      height: 100%;
+      min-height: 90.0vh;
+      width: 110%;
+      background-color: #ec1550;
+      color: #FFF !important;
+      margin-left: -14px;
+      padding-top: 100px;
+    }
+
+    .link-entrar{
+      font-size: 15px !important;
+      color: #575859;
+      padding-top: 10px !important;
+    }
+
+    .link-entrar:hover{
+      
+      color:#007bff;
+    }
+
+    .white-table{
+      background-color: #FFF;
+      border-radius: 5px;
+      margin-top: 10px; 
+    }
+
+    .span-message-success{
+      display: inline-block;
+      font-size: 12px;
+      text-align: left;
+      width: 100%;
+      font-style: italic;
+      color:#575859;
+    }

@@ -1,0 +1,39 @@
+#sc_abouthelpie {
+    width:100%;
+    background:#e1e0e5;
+    color:#595857;
+    padding: 60px 0;
+}
+
+#sc_abouthelpie h4 {
+    font-family:'PantonBlack', sans-serif !important;
+    font-size:36px;
+    line-height: 36px;
+    margin-bottom: 20px;
+}
+
+.btn-about-helpie a {
+    border:solid 2px #ec1550;
+    font-family:'PantonBlack', sans-serif !important;
+    font-size:22px;
+    line-height: 22px;
+    background:none;
+    border-radius: 90px;
+    padding: 7px 14px;
+    color:#ec1550;
+    text-transform: uppercase;    
+}
+
+.btn-about-helpie a:hover {
+    background: #ec1550;
+    color:#fff;
+    text-decoration:none;
+}
+
+/* Responsive Custom */
+
+@media (max-width: 767px) {
+    #sc_abouthelpie {
+        text-align: center;
+    }
+}

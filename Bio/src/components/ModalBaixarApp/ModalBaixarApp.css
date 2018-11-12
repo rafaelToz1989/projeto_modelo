@@ -1,0 +1,49 @@
+.modal-corpo-celular {
+    padding:0 15px !important;
+}
+
+/* .modal-content span {
+    cursor: pointer;
+    padding:5px 7px;
+    border-radius: 30px;
+    background: #fff;
+    float: right;
+    color:#595857;
+}
+
+.modal-content span:hover {
+    color:#000;
+}
+.modal-content {
+    height:595px !important;
+    width:340px !important;
+    margin:0 auto;
+    background:#000 !important;
+    border-radius:1.7rem !important;
+} */
+
+.inner-cellphone {
+    width:310px;
+    height: 493px;
+    background: #ec1550;
+    color:#fff;
+    text-align: center;
+}
+
+.inner-cellphone h4 {
+    font-size:32px;
+    line-height: 30px;
+    text-align: center;
+    margin: 70px 0px !important;
+    max-width: 270px;
+    display:inline-table;
+    font-family:'PantonBlack', sans-serif !important;
+}
+
+.inner-cellphone img {
+    max-width: 310px;
+}
+
+.footer-cellphone {
+    margin-top: 35px;
+}

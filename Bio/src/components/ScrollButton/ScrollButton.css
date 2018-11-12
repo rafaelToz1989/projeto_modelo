@@ -1,0 +1,43 @@
+  .scroll {
+    
+    background-color: rgba(87, 88, 89, 0.7);
+    width: 30px;
+    height: 30px;
+    position: fixed;
+    bottom: 50px;
+    right: 10px;
+    border-radius: 50px;
+    border: none;
+    cursor: pointer;
+    /* Firefox */
+    -moz-transition: all 0.3s ease-in;
+    /* WebKit */
+    -webkit-transition: all 0.3s ease-in;
+    /* Opera */
+    -o-transition: all 0.3s ease-in;
+    /* Standard */
+    transition: all 0.3s ease-in;
+
+  }
+
+  .scroll:hover {
+    background-color: rgba(236, 21, 80, 0.9);
+    /* Firefox */
+    -moz-transition: all 0.3s ease-in;
+    /* WebKit */
+    -webkit-transition: all 0.3s ease-in;
+    /* Opera */
+    -o-transition: all 0.3s ease-in;
+    /* Standard */
+    transition: all 0.3s ease-in;
+  }
+  
+  .arrow-up {
+    color: #fff;
+  }
+
+  .hide-button{
+    visibility: hidden;
+  }
+
+    

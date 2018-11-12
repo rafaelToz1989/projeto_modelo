@@ -1,0 +1,36 @@
+#sc_promocode {
+    width:100%;
+    background:#ec1550;
+    color:#fff;
+    padding: 80px 0;
+}
+
+#sc_promocode h4 {
+    font-family:'PantonBlack', sans-serif !important;
+    font-size:32px;
+    line-height: 32px;
+    margin-bottom: 20px;
+}
+
+#sc_promocode strong {
+    border:dotted 1px #fff;
+    padding:2px 3px;
+}
+
+#sc_promocode a img {
+    transition: box-shadow 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+}
+#sc_promocode a img:hover {
+    box-shadow: 0px 0px 19px 5px rgba(255,255,255,0.4);
+    border-radius: 9px;
+    transition: box-shadow 0.3s ease-in-out;
+}
+
+/* Responsive Custom */
+
+@media (max-width: 767px) {
+    #sc_promocode {
+        text-align: center;
+    }
+}

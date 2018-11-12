@@ -1,0 +1,21 @@
+.vague {
+    padding-bottom: .5rem;
+    display: block;
+}
+
+
+.vague2 {
+    display: block;
+    text-align: center;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.vague3 {
+    color: #6c757d;
+    font-weight: 600;
+}
+
+.text-sm {
+    font-size: .85714rem;
+}

@@ -1,0 +1,52 @@
+.h4 {
+    font-weight: 100;
+}
+
+
+.badge-logX {
+    background-color: #8b9fb7;
+    margin-right: 7px;
+}
+
+.form-control {
+    border-radius: 0;
+}
+
+label {
+    color: #6c757d
+}
+
+.address{
+    font-size: .9rem;
+    margin-bottom: 0;
+    line-height: 1.1;
+    display: block;
+}
+
+.chageAddress{
+    font-size: .9rem;
+}
+
+.footer {
+    width: 100%;
+    background: #dadada;
+}
+
+.btn{
+  border-radius: 0;
+}
+
+.btn-primary {
+    color: #B3CEFB;
+    background-color: #3367D6;
+    border-color: #3367D6;
+    border-radius: 0;
+    font-size: 18px;
+    width: 100%;
+    height: 55px;
+}
+
+.point{
+    border-bottom: 1px solid #c5d3e0;
+}
+

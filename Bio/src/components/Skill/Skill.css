@@ -1,0 +1,27 @@
+
+.skill-name{
+    font-size: 22px;
+    color: #575859;
+    line-height: 22px;
+    text-align: left;
+    clear:both;
+}
+
+.hr{
+    /*width:90%;
+    border-bottom: 1px dotted #000;*/
+       
+}
+
+/* .skill-list{
+    padding-left: 10px;
+} */
+
+.skill-padding{
+    /* min-height: 100px; */
+}
+
+.skills-item {
+    margin-bottom: 30px;
+    display: grid;
+}

@@ -1,0 +1,29 @@
+.sobre-mim {
+    font-size: 26px;
+    color: #ec1550;
+    line-height: 26px;
+    text-align: left;
+    text-transform: uppercase;
+    font-weight: 900;
+    font-family:'PantonBlack', sans-serif !important;
+    
+
+}
+
+.bio{
+
+    font-family: "Open Sans",sans-serif !important;
+    font-size: 16px !important;
+    text-transform: none !important;
+    text-align: left;
+    line-height: 166% !important;
+    color: #676767;
+    /* padding-right: 50px; */
+    
+}
+
+.bio-section{
+    /* width: 50%; */
+    height: auto;
+    float:left; 
+}

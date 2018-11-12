@@ -1,0 +1,44 @@
+
+/* ul {
+    text-align: left;
+    list-style-type: none;
+    border: 1pt gainsboro solid;
+    margin: 10px;
+    padding: 0;
+
+} */
+
+
+
+.center-text{
+    margin: 220px auto;
+    width: 365px;
+    height: 10%;
+}
+
+.Menu{
+    margin: auto;
+    max-width: 200px;
+    height: 100%;
+    /* margin-bottom:100px */
+}
+
+.last-item {
+    border-bottom: none !important;
+}
+
+.list-group a{
+    color: #595857 !important;
+    text-align: left;
+    text-decoration: none !important;
+}
+
+.list-group a:hover, .nova-solicitacao:hover{
+    color: rgba(255, 255, 255, 0.7) !important;
+    background: rgba(0, 0, 0, 0.3) !important;
+}
+
+.nova-solicitacao{
+    color: rgba(255, 255, 255, 0.7) !important;
+    background: #595857 !important;
+}

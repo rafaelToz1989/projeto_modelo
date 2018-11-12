@@ -1,0 +1,78 @@
+.h4 {
+    font-weight: 100;
+    border-bottom: 1px solid #c5d3e0;
+    padding-bottom: 10px;
+}
+
+.badge-logX {
+    background-color: #8b9fb7;
+}
+
+.form-control {
+    border-radius: 0;
+}
+
+label {
+    color: #6c757d
+}
+
+.address{
+    font-size: .9rem;
+    margin-bottom: 0;
+    line-height: 1.1;
+    display: block;
+}
+
+.changeAddress{
+    font-size: .9rem;
+}
+
+.footer {
+    width: 100%;
+    background: #dadada;
+}
+
+.btn{
+  border-radius: 0;
+}
+
+.btn-primary:disabled {
+    background: #595857 !important;
+    border-color: #595857 !important;
+}
+
+.btn-primary {
+    color: #B3CEFB;
+    background-color: #ec1550 !important;
+    border-color: #ec1550 !important;
+    border-radius: 0;
+    font-size: 18px;
+    width: 100%;
+    height: 55px;
+}
+
+.btn-outline-info {
+    color: #ec1550 !important;
+    border-color: #ec1550 !important;
+}
+
+.btn-outline-info:hover, .btn-outline-info:not(:disabled):not(.disabled).active {
+    background: #ec1550 !important;
+    color:#fff !important;
+}
+
+
+
+.point{
+    border-bottom: 1px solid #c5d3e0;
+}
+
+.hyperlink{   
+     color:#007bff;
+    
+}
+
+.hyperlink:hover{
+    cursor:pointer;
+     text-decoration:underline;
+}

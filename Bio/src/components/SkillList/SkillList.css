@@ -1,0 +1,15 @@
+.areas-atuacao{
+    font-size: 26px;
+    color: #ec1550;
+    line-height: 26px;
+    text-align: left;
+    text-transform: uppercase;
+    font-weight: 900;
+}
+
+.areas-section{
+    /*float:right; */
+    display:inline; 
+    /* margin-top: -15%; */
+    /* width: 50%; */
+}

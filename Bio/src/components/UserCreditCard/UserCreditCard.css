@@ -1,0 +1,31 @@
+/* .container .row {
+    margin-bottom: 1rem;
+  }
+  
+  .container .row > [class^="col-"] {
+    padding-top: .75rem;
+    padding-bottom: .75rem;
+    background-color: #E5EDF5;
+    border: 1px solid #C9C1D5;
+    color: #5F5F5F;
+  } */
+
+  .modal-credito .modal-content  {
+    height: 650px !important;
+    width: 900px !important;
+    margin:0 auto;
+  }
+
+  .botao-cartao{
+    height: 37px !important;
+    text-transform: uppercase;
+    font-family: 'PantonLight',sans-serif !important;
+    background:rgba(236, 21, 80, 1) !important;
+    border: none !important;
+    padding: 5px 30px !important;
+    width: auto;
+  }
+
+  .botao-cartao:hover{
+    background:rgba(236, 21, 80, 0.8) !important;
+  }
